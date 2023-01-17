@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a65836d936e9fd48951cd1bdfbb4ff7, type: 3}
+  m_Name: Scene Gizmo Asset
+  m_EditorClassIdentifier: 
+  _gizmos:
+  - Name: Spawn
+    Position: {x: -0.07600021, y: 1.65, z: 0.03799999}
+    isEditing: 0
+  - Name: End Level
+    Position: {x: -15, y: 2, z: -1}
+    isEditing: 0
+  - Name: First Fight
+    Position: {x: -6.425, y: 1, z: -0.3}
+    isEditing: 0
+  - Name: PNJ to help
+    Position: {x: -10.06, y: 2, z: -0.53}
+    isEditing: 0
+  - Name: Boss Arena
+    Position: {x: -13.68, y: 1.921, z: -1}
+    isEditing: 0
